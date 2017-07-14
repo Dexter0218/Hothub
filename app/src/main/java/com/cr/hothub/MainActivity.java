@@ -7,6 +7,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.MenuItem;
 import android.widget.TextView;
 
+import com.tencent.bugly.crashreport.CrashReport;
+
 public class MainActivity extends AppCompatActivity {
 
     private TextView mTextMessage;
